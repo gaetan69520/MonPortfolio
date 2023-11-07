@@ -10,22 +10,22 @@ const PortfolioSection = () => {
           <section>
             <h2>A propos</h2>
             <p>
-              Ici, vous pourrez découvrir mes compétences et domaines
-              d'expertise.
+              Ici, vous pourrez découvrir mes compétences ainsi qu'un bref
+              résumé de ma formation et de ma personne.
             </p>
           </section>
           <section>
-            <h2>Projects</h2>
+            <h2>Projets</h2>
             <p>
-              Je vais vous présenter deux projets que j'ai réalisés et vous
+              Ici, je vais vous présenter deux projets que j'ai réalisés et vous
               expliquer mon implication dans ceux-ci.
             </p>
           </section>
           <section>
-            <h2>Resume</h2>
+            <h2>Formulaire</h2>
             <p>
-              Je vais partager quelques informations sur ma formation et mon
-              parcours éducatif.
+              Ici vous pouvez me contacter en laissant votre e-mail, votre nom
+              et un message.
             </p>
           </section>
         </div>
