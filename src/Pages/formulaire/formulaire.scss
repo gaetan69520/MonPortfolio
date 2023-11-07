@@ -1,0 +1,53 @@
+.formulaire-section {
+  background-color: #333;
+  padding: 2%;
+  border-radius: 5px;
+  max-width: 400px;
+  margin: 9% auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.formulaire-section h2 {
+  color: white;
+  text-align: center;
+}
+
+.formulaire-item {
+  margin-bottom: 15px;
+}
+
+.formulaire-item label {
+  display: block;
+  margin-bottom: 5px;
+  color: white;
+}
+
+.formulaire-item input,
+.formulaire-item textarea {
+  width: 90%;
+  padding: 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.formulaire-item button {
+  background-color: #3d8b3f;
+  color: black;
+  cursor: pointer;
+  border-radius: 5px;
+  width: 33%;
+  border: white;
+}
+.send {
+  display: flex;
+  justify-content: center;
+  height: 25px;
+}
+.formulaire-item button:hover {
+  background-color: #45a049;
+}
+
+.section-form {
+  background: linear-gradient(to bottom,#e4ecff , #c7d1df);
+  padding: 1%;
+}

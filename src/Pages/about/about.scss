@@ -1,0 +1,53 @@
+.about-section {
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(to bottom,#e4ecff , #c7d1df);
+  padding: 1% 1% 20% 1%;
+}
+
+.presentation-section {
+  flex: 1;
+  padding: 20px;
+  border-radius: 5px;
+
+  p {
+    font-size: 20px;
+  }
+}
+.presentation-section a {
+  display: flex;
+  padding: 5px;
+  background-color: #3366cc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  justify-content: center;
+  width: 100%;
+}
+
+.presentation-section a:hover {
+  background-color: #2c58b1;
+}
+.skills-section {
+  flex: 1;
+  padding: 1%;
+  border-radius: 5px;
+  border: 1px solid;
+}
+
+.skills-list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+
+    img {
+      width: 24px;
+      margin-right: 10px;
+    }
+  }
+}
